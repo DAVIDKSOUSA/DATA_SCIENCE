@@ -11,7 +11,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ## Projetos de Data Science
 
-* **Análise Exploratória dos dados de Reclamações do Governo:** [Projeto 1](https://github.com/DAVIDKSOUSA/DATA_SCIENCE/blob/master/Reclamações_Gov.ipynb)
+* **Análise Exploratória dos dados de Reclamações do Governo:** https://bit.ly/2Xym3TI
 * **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
 
 ---
