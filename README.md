@@ -6,12 +6,11 @@ Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar des
 
 Escreva uma descrição bem detalhada e introdutória.
 
-* [LinkedIn]:
+* [LinkedIn](https://www.linkedin.com/in/david-sousa-ab6826198/)
 
 ## Projetos de Data Science
 
 * **Análise Exploratória dos dados de Reclamações do Governo:** https://bit.ly/2Xym3TI
-
 
 ---
 
@@ -20,7 +19,7 @@ Escreva uma descrição bem detalhada e introdutória.
 Sou David Sousa, Piloto Militar da Força Aérea Brasileira, no Rio de Janeiro - RJ. Este repositório é focado em análises de Data Science, Deep Learning e Pyhton.
 
 * Graduação em Ciências Aeronáuticas pela AFA.
-* 
+* Curso em Investigação e Prevenção de Aciedentes Aeronáuticos pelo CENIPA.
 * MBA em Finance, Investing and Banking pela PUC - RS.
-* .
+
 
