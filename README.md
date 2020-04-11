@@ -6,8 +6,7 @@ Coloque uma descrição sobre sua carreira, projetos e o que se pode esperar des
 
 Escreva uma descrição bem detalhada e introdutória.
 
-* [LinkedIn](https://www.linkedin.com/in/carlosfab//)
-* [Blog](https://sigmoidal.ai)
+* [LinkedIn]:
 
 ## Projetos de Data Science
 
@@ -18,10 +17,10 @@ Escreva uma descrição bem detalhada e introdutória.
 
 ### Sobre Mim:
 
-Sou Carlos Melo, Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Também sou o autor do *blog* [sigmoidal.ai](http://sigmoidal.ai), focado em Data Science, Deep Learning e Pyhton.
+Sou David Sousa, Piloto Militar da Força Aérea Brasileira, no Rio de Janeiro - RJ. Este repositório é focado em análises de Data Science, Deep Learning e Pyhton.
 
 * Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea Canadense.
+* 
+* MBA em Finance, Investing and Banking pela PUC - RS.
+* .
 
