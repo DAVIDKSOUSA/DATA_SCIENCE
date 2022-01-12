@@ -18,7 +18,7 @@ Escreva uma descrição bem detalhada e introdutória.
 
 Sou David Sousa, Piloto Militar da Força Aérea Brasileira, no Rio de Janeiro - RJ. Este repositório é focado em análises de Data Science, Deep Learning e Pyhton.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
+* Graduação em Ciências Aeronáuticas pela Academia da Força Aérea.
 * Curso em Investigação e Prevenção de Aciedentes Aeronáuticos pelo CENIPA.
 * MBA em Finance, Investing and Banking pela PUC - RS.
 
